@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "building-ai-agents-with-langgraph"
+version = "1.0.0"
+description = "Jupyter notebooks for the Building AI Agents with LangGraph course."
+authors = ["Sajal Sharma <contact@sajalsharma.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
