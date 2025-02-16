@@ -1,6 +1,6 @@
 # Building AI Agents with LangGraph
 
-This repository contains Jupyter notebooks for the "Building AI Agents with LangGraph" course. Learn how to build sophisticated AI agents using LangGraph, LangChain, and OpenAI.
+This repository contains Jupyter notebooks for the "Building AI Agents with LangGraph" course. Learn how to build sophisticated AI agents using LangGraph, LangChain, and OpenAI. [Course Link](https://learning.oreilly.com/videos/building-ai-agents/0642572077884/0642572077884-video381607/)
 
 ## Prerequisites
 
